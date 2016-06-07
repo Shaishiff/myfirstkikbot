@@ -14,6 +14,7 @@ let bot = new Bot({
 bot.updateBotConfiguration();
 
 bot.onTextMessage((message) => {
+    console.log("Got message: " + message.body);
     message.reply(message.body);
 });
 
