@@ -1,0 +1,22 @@
+{
+  "name": "myfirstkikbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shaishiff/myfirstkikbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shaishiff/myfirstkikbot/issues"
+  },
+  "homepage": "https://github.com/Shaishiff/myfirstkikbot#readme",
+  "dependencies": {
+    "@kikinteractive/kik": "^2.0.3"
+  }
+}

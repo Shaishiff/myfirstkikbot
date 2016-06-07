@@ -1,0 +1,54 @@
+name: KikBot
+config:
+  - name: FACEBOOK_PAGE_ID
+    friendly_name: FACEBOOK_PAGE_ID
+    type: secret
+    global: true
+  - name: MONGO_DB_NAME
+    friendly_name: MONGO_DB_NAME
+    type: secret
+    global: true
+  - name: MONGO_DB_USER
+    friendly_name: MONGO_DB_USER
+    type: secret
+    global: true
+  - name: MONGO_DB_PASSWORD
+    friendly_name: MONGO_DB_PASSWORD
+    type: secret
+    global: true
+  - name: MONGO_DB_HOST
+    friendly_name: MONGO_DB_HOST
+    type: secret
+    global: true
+  - name: MONGO_DB_PORT
+    friendly_name: MONGO_DB_PORT
+    type: secret
+    global: true
+  - name: ANALYTICS_TOKEN
+    friendly_name: ANALYTICS_TOKEN
+    type: secret
+    global: true
+  - name: MYSQL_HOST
+    friendly_name: MYSQL_HOST
+    type: secret
+    global: true
+  - name: MYSQL_USER
+    friendly_name: MYSQL_USER
+    type: secret
+    global: true
+  - name: MYSQL_PASSWORD
+    friendly_name: MYSQL_PASSWORD
+    type: secret
+    global: true
+  - name: MYSQL_DB
+    friendly_name: MYSQL_DB
+    type: secret
+    global: true
+  - name: MYSQL_TABLE
+    friendly_name: MYSQL_TABLE
+    type: secret
+    global: true
+  - name: GOOGLE_API_KEY
+    friendly_name: GOOGLE_API_KEY
+    type: secret
+    global: true
